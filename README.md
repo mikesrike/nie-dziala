@@ -13,7 +13,7 @@
 			<div class="title-graphic">		
 				<div class="overlay">
 					<h1 class="nazwapodstrony">
-						<span class="border2" style="color:red; ">Top</span><span class="border2"> 5 gier.</span>
+						<span class="border2" style="color:red; ">Top</span><span class="border2"> 5 gier.<
 					</h1>
 
 					<div class="menu3">
